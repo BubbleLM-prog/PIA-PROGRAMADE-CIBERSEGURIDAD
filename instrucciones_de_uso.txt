@@ -1,0 +1,27 @@
+--------------------------Instrucciones de uso----------------------------
+
+1. Descargar todos los archivos.
+2. No ubicar el archivo en "C:" ya que no permitira su CORRECTA ejecución.
+3. Saber en donde guardaste el script, ya que en esa carpeta se te crearan archivos de reporte.
+
+------------------------------ARGUMENTOS----------------------------------
+Web Scrapping
+-url : ingresar la url a la cual se le hará la extraccion de informacion.
+
+Envio de correos
+-re : en este argumento se ingresará el correo del remitente.
+-co : en este argumento se ingresará la contraseña del remitente.
+-de : en este argumento se ingresará el correo del destinatario.
+-as : en este argumento se ingresará el asunto del correo.
+-cu : en este argumento se ingresará el cuerpo del correo.
+-pa : en este argumento se ingresará el path de la imagen que desees agregar al correo.
+
+Claves HASH
+-r : especificar la ruta de la carpeta para obtener las claves hash.
+
+Escaneo de Puertos
+-ip: en este argumento se ingresará la ip para la cual quieres que se escaneen un rango de puertos establecidos.
+
+Cifrado de Mensajes
+-cl : en este argumento se ingresará la clave del mensaje.
+-ms : en este argumento se ingresará el mensaje a cifrar.
